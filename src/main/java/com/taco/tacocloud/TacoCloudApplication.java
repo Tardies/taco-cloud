@@ -3,6 +3,7 @@ package com.taco.tacocloud;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 /**
  * <h3>Main class</h3>
  *
